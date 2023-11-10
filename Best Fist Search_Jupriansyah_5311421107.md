@@ -192,11 +192,5 @@ Berikut adalah penjelasan rinci dari kelas `GameMain`:
 
 Kode tersebut mengimplementasikan permainan Tic-Tac-Toe dengan antarmuka grafis dan menggunakan kelas `Board` untuk mengelola logika permainan.
 
-
-
-
-
-
-
-
-
+### Hasil Praktikum
+![alt text](https://github.com/jup3to3/AI-Jupriansyah/blob/main/Output%20Praktikum.png)
